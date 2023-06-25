@@ -42,8 +42,8 @@
 		<dc:description id="description">A local newspaper reporter aids the local police in determining how a wealthy man was murdered in a room locked from the inside.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Tab Holland, newspaper reporter, and a friend of a local police investigator, is surprised to discover that his roommate’s uncle Jesse Transmere, a wealth miser has been found murdered in a cellar vault locked from the inside. More suprising is the fact that Ursula Ardfern, a famous actress and new acquaintance of Tab’s also has a connection with the murdered man, who has backed her plays in the past.&lt;/p&gt;
-			&lt;p&gt;Although he has been regularly reporting on the case for his newspaper, Tab’s interest in the case intensifies after his own apartment and the murdered man’s house is ransacked&lt;/p&gt;
-			&lt;p&gt;The identity of the murdered in finally revealed, but not before Tab must try and save Ursula from harm and himself from death at the hands of the murderer.&lt;/p&gt;
+			&lt;p&gt;Although he has been regularly reporting on the case for his newspaper, Tab’s interest in the case intensifies after both his own apartment and the murdered man’s house are ransacked&lt;/p&gt;
+			&lt;p&gt;The identity of the murdered is finally revealed, but not before Tab must try and save Ursula and himself from death at the hands of the murderer.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Clue of the New Pin&lt;/i&gt; was published in 1923.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
@@ -71,6 +71,9 @@
 		<dc:contributor id="transcriber-2">David E. Brown</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Brown, David E.</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net</meta>
 		<dc:contributor id="producer-1">Norman C. Walz</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Walz, Norman C.</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
