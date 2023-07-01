@@ -41,9 +41,10 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A local newspaper reporter aids the local police in determining how a wealthy man was murdered in a room locked from the inside.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Tab Holland, newspaper reporter, and a friend of a local police investigator, is surprised to discover that his roommate’s uncle Jesse Transmere, a wealth miser has been found murdered in a cellar vault locked from the inside. More suprising is the fact that Ursula Ardfern, a famous actress and new acquaintance of Tab’s also has a connection with the murdered man, who has backed her plays in the past.&lt;/p&gt;
-			&lt;p&gt;Although he has been regularly reporting on the case for his newspaper, Tab’s interest in the case intensifies after both his own apartment and the murdered man’s house are ransacked&lt;/p&gt;
-			&lt;p&gt;The identity of the murdered is finally revealed, but not before Tab must try and save Ursula and himself from death at the hands of the murderer.&lt;/p&gt;
+			&lt;p&gt;Tab Holland, newspaper reporter, and a friend of a local police investigator, is surprised to discover that his roommate’s uncle Jesse Transmere, a wealthy miser has been found murdered in a cellar vault locked from the inside. More surprising is the fact that Ursula Ardfern, a famous actress and new acquaintance of Tab’s also has a connection with the murdered man, who has backed her plays in the past.&lt;/p&gt;
+			&lt;p&gt;Although he has been regularly reporting on the case for his newspaper, Tab’s interest in the case intensifies after both his own apartment and the murdered man’s house are ransacked.&lt;/p&gt;
+			&lt;p&gt;The identity of the murderer is finally revealed, but not before Tab must try and save Ursula and himself from death.&lt;/p&gt;
+			&lt;p&gt;Although yet another in &lt;a href="https://standardebooks.org/ebooks/edgar-wallace"&gt;Edgar Wallace’s&lt;/a&gt; locked-room mysteries, the novel also explores the claim of various religions in having exclusive access to the truth or the only path to spirituality.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Clue of the New Pin&lt;/i&gt; was published in 1923.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
@@ -51,7 +52,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/000784837</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Clue_of_the_New_Pin</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Clue_of_the_New_Pin_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-wallace_the-clue-of-the-new-pin</meta>
 		<dc:creator id="author">Edgar Wallace</dc:creator>
 		<meta property="file-as" refines="#author">Wallace, Edgar</meta>

@@ -12,7 +12,8 @@ footer{
 	text-align: right;
 }
 
-#chapter-19 blockquote:first-of-type p:first-of-type{
-	font-weight: bold;
+#chapter-19 header{
+	font-variant: small-caps;
+	margin-bottom: 1em;
 	text-align: center;
 }
