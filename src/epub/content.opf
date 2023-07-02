@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edgar-wallace/the-clue-of-the-new-pin</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-07-02T19:01:01Z</dc:date>
+		<meta property="dcterms:modified">2023-07-02T19:01:01Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -39,19 +39,17 @@
 		<meta property="term" refines="#subject-3">sh2008107169</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A local newspaper reporter aids the local police in determining how a wealthy man was murdered in a room locked from the inside.</dc:description>
+		<dc:description id="description">A newspaper reporter aids the local police in investigating how a wealthy man was murdered in a room locked from the inside.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Tab Holland, newspaper reporter, and a friend of a local police investigator, is surprised to discover that his roommate’s uncle Jesse Transmere, a wealthy miser has been found murdered in a cellar vault locked from the inside. More surprising is the fact that Ursula Ardfern, a famous actress and new acquaintance of Tab’s also has a connection with the murdered man, who has backed her plays in the past.&lt;/p&gt;
-			&lt;p&gt;Although he has been regularly reporting on the case for his newspaper, Tab’s interest in the case intensifies after both his own apartment and the murdered man’s house are ransacked.&lt;/p&gt;
-			&lt;p&gt;The identity of the murderer is finally revealed, but not before Tab must try and save Ursula and himself from death.&lt;/p&gt;
-			&lt;p&gt;Although yet another in &lt;a href="https://standardebooks.org/ebooks/edgar-wallace"&gt;Edgar Wallace’s&lt;/a&gt; locked-room mysteries, the novel also explores the claim of various religions in having exclusive access to the truth or the only path to spirituality.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Clue of the New Pin&lt;/i&gt; was published in 1923.&lt;/p&gt;
+			&lt;p&gt;Tab Holland, newspaper reporter and a friend of a local police investigator, is surprised to discover that his roommate’s uncle Jesse Transmere, a wealthy miser, has been found murdered in a cellar vault locked from the inside. More surprising is the fact that Ursula Ardfern, a famous actress and new acquaintance of Tab’s, has had her plays backed by the murder victim in the past.&lt;/p&gt;
+			&lt;p&gt;Although he has been regularly reporting on the case for the newspaper, Tab’s interest in the case intensifies after both his own apartment and the murdered man’s house are ransacked.&lt;/p&gt;
+			&lt;p&gt;Although it’s yet another entry in &lt;a href="https://standardebooks.org/ebooks/edgar-wallace"&gt;Edgar Wallace’s&lt;/a&gt; locked-room mysteries, &lt;i&gt;The Clue of the New Pin&lt;/i&gt; also explores the claim of various religions in having exclusive access to the truth, or the only path to spirituality.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70882</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000784837</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">71179</meta>
+		<meta property="se:reading-ease.flesch">73.68</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Clue_of_the_New_Pin_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-wallace_the-clue-of-the-new-pin</meta>
 		<dc:creator id="author">Edgar Wallace</dc:creator>
@@ -83,6 +81,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">http://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
