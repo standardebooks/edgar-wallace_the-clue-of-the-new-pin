@@ -48,7 +48,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/70882</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000784837</dc:source>
-		<meta property="se:word-count">71179</meta>
+		<meta property="se:word-count">71178</meta>
 		<meta property="se:reading-ease.flesch">73.68</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Clue_of_the_New_Pin_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-wallace_the-clue-of-the-new-pin</meta>
