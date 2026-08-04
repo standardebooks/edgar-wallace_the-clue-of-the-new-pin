@@ -41,7 +41,7 @@
 		<meta property="term" refines="#subject-3">sh2008107169</meta>
 		<meta property="schema:genre">Adventure</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A newspaper reporter aids the local police in investigating how a wealthy man was murdered in a room locked from the inside.</dc:abstract>
+		<meta property="schema:abstract">A newspaper reporter aids the local police in investigating how a wealthy man was murdered in a room locked from the inside.</meta>
 		<dc:description>
 			&lt;p&gt;Tab Holland, newspaper reporter and a friend of a local police investigator, is surprised to discover that his roommate’s uncle Jesse Transmere, a wealthy miser, has been found murdered in a cellar vault locked from the inside. More surprising is the fact that Ursula Ardfern, a famous actress and new acquaintance of Tab’s, has had her plays backed by the murder victim in the past.&lt;/p&gt;
 			&lt;p&gt;Although he has been regularly reporting on the case for the newspaper, Tab’s interest in the case intensifies after both his own apartment and the murdered man’s house are ransacked.&lt;/p&gt;
